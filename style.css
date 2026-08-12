@@ -2,7 +2,7 @@
  header{background-color:#21F9A6;
   color: #014822; text-align: center; margin: 0 auto; 
   border: 3px solid #014822; padding: 10px;}
-  main{margin: 0 auto; padding: 8px;}
+  main{margin: 0 auto; padding: 8px; display: list-item;}
    .artigo-autor{font-weight: bold;}
     h1{font-weight: bolder;}
     h2{font-weight: bold;}
