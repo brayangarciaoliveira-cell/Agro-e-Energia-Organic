@@ -2,10 +2,10 @@
  header{background-color:#21F9A6;
   color: #014822; text-align: center; margin: 0 auto; 
   border: 3px solid #014822; padding: 10px;}
-  main{margin: 0 auto; padding: 8px; display: list-item;}
+  main{margin: 0 auto; padding: 8px; display: flex; flex-wrap: wrap;}
    .artigo-autor{font-weight: bold;}
     h1{font-weight: bolder;}
     h2{font-weight: bold;}
     h3{font-weight: lighter;}
-    article {
-    display: list-item; border: 1px solid #5fac20; margin: 8px; gap: 16px; padding: 16px;}
+   article {display: flex; flex-direction: column; align-items: center; text-align: center; 
+   justify-content: center; border: 1px solid #183C63; margin: 16px; gap: 16px; padding: 16px; flex: 1 1 25%;}
