@@ -7,3 +7,5 @@
     h1{font-weight: bolder;}
     h2{font-weight: bold;}
     h3{font-weight: lighter;}
+    article {
+    display: list-item; border: 1px solid #5fac20; margin: 8px; gap: 16px; padding: 16px;}
